@@ -1,4 +1,4 @@
-# Ese034-ElencoStudentiLeggiFile
+# Ese035-ElencoStudentiLeggiFile
 
 Realizza un programma C che richieda all'utente di inserire il nome di un file di input e legga da esso un elenco di studenti.
 
